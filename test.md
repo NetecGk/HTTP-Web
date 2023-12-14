@@ -25,6 +25,8 @@ Usar el siguiente comando:
 ~~~
 sudo su 
 ~~~
+>root@APItest:/home/Netec#
+
 1.3	Actualizar los repositorios usar el comando: yum update
 ~~~
 yum update.
