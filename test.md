@@ -22,28 +22,35 @@ windows + r
 
 1.2	Iniciar el super usuario. Consejo: Para cualquier instalación o configuración se recomienda usar el super usuario en nuestro Linux. 
 Usar el siguiente comando:
-
-~~~sudo su 
-
+~~~
+sudo su 
+~~~
 1.3	Actualizar los repositorios usar el comando: yum update
-~~~yum update.
- 
+~~~
+yum update.
+~~~ 
 
 1.4	Instalar nginx usando el comando:
-~~~yum install nginx
+~~~
+yum install nginx
+~~~
  
-
 1.5	Esperar la instalación unos minutos, cuando se termine de instalar usar el comando systemctl status nginx para observar el estado del servidor, la primera vez que se instale el servidor estará en estado inactivo: 
 1.6	Iniciar el servidor de nginx con el comando: 
 
-~~~systemctl start nginx
+~~~
+systemctl start nginx
+~~~
 
 1.7	Validar que el servidor este iniciado con el comando: 
 
-~~~systemctl status nginx
-
+~~~
+systemctl status nginx
+~~~
 
 1.8	Obtener la IP pública de tu servidor usando el siguiente comando:
-~~~curl ifconfig.me
+~~~
+curl ifconfig.me
+~~~
  
 
