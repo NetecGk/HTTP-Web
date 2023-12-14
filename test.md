@@ -14,7 +14,6 @@ Familiarizarse con los principales comandos de nginx.
 
 
 ### Lab Setup
-
 1. Instalación de nginx
 1.1	Abrir la terminal de nuestro servidor. 
 
