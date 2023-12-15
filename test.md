@@ -1,4 +1,4 @@
-﻿# Práctica 1 Instalación y configuración de nginx
+# Práctica 1 Instalación y configuración de nginx
 ## Lab: Test Netec
   
 ### Scenario
@@ -16,6 +16,8 @@ Familiarizarse con los principales comandos de nginx.
 **1**. Instalación de nginx.
 
 **1.1** Abrir la terminal de nuestro servidor. 
+
+![1.png](Imagenes/1.png)
 
 >***firmate con el usuario y contraseña compartido por el instructor***
 
