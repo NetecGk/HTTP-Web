@@ -16,7 +16,8 @@ Familiarizarse con los principales comandos de nginx.
 
 1.1 Abrir la terminal de nuestro servidor. 
 
->abre cmd /n
+>abre cmd
+
 >windows + r
 
 1.2	Iniciar el super usuario. Consejo: Para cualquier instalación o configuración se recomienda usar el super usuario en nuestro Linux. 
