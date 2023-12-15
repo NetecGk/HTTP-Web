@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Práctica 1 Instalación y configuración de nginx
 ## Lab: Test Netec
   
