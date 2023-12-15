@@ -11,15 +11,13 @@ Esta práctica está pensada para un sistema operativo CentOS / RedHat
 Instalar nginx.
 Familiarizarse con los principales comandos de nginx.
 
-### Lab Setup ###
-
-
+### Lab Setup
 1. Instalación de nginx.
 
-1.1	Abrir la terminal de nuestro servidor. 
+1.1 Abrir la terminal de nuestro servidor. 
 
-abre cmd
-windows + r
+>abre cmd
+>windows + r
 
 1.2	Iniciar el super usuario. Consejo: Para cualquier instalación o configuración se recomienda usar el super usuario en nuestro Linux. 
 Usar el siguiente comando:
