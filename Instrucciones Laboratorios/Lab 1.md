@@ -6,7 +6,7 @@
   
 Al final de la práctica se espera que el participante pueda observar en funcionamiento su servidor de nginx. 
 
-Esta práctica está pensada para un sistema operativo CentOS / RedHat
+Esta práctica está pensada para un sistema operativo CentOS / Red---Hat
 
 ### Objectives
   
