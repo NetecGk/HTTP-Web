@@ -10,6 +10,7 @@ Esta práctica está pensada para un sistema operativo CentOS / RedHat
 ### Objectives
   
 Instalar nginx.
+
 Familiarizarse con los principales comandos de nginx.
 
 ### Lab Setup
