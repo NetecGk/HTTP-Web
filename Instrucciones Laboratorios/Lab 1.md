@@ -25,6 +25,7 @@ Esta práctica está pensada para un sistema operativo CentOS / RedHat
 >***firmate con el usuario y contraseña compartido por el instructor***
 
 **1.2**	Iniciar el super usuario. Consejo: Para cualquier instalación o configuración se recomienda usar el super usuario en nuestro Linux. 
+
 Usar el siguiente comando:
 ~~~
 sudo su
