@@ -16,7 +16,7 @@ Esta práctica está pensada para un sistema operativo CentOS / Red---Hat
 
 ### Lab Setup
 
-**1**. Instalación de nginx.
+**1*. Instalación de nginx.
 
 **1.1** Abrir la terminal de nuestro servidor. 
 
