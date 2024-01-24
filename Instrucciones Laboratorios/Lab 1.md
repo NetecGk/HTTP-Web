@@ -5,18 +5,16 @@
 ### Scenario
   
 Al final de la práctica se espera que el participante pueda observar en funcionamiento su servidor de nginx. 
-
-Esta práctica está pensada para un sistema operativo CentOS / Red---Hat
+Esta práctica está pensada para un sistema operativo CentOS / RedHat
 
 ### Objectives
   
 -Instalar nginx.
-
 -Familiarizarse con los principales comandos de nginx.
 
 ### Lab Setup
 
-**1*. Instalación de nginx.
+**1**. Instalación de nginx.
 
 **1.1** Abrir la terminal de nuestro servidor. 
 
