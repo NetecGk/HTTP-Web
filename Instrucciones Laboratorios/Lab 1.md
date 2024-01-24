@@ -1,5 +1,5 @@
 
-# Práctica 1 Instalación y configuración de nginx
+# Práctica 1: Instalación y configuración de nginx
   
 ### Scenario
   
