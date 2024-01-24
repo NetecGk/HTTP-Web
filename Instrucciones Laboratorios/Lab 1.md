@@ -43,6 +43,9 @@ yum install nginx
 
 **1.5**	Esperar la instalación unos minutos, cuando se termine de instalar usar el comando systemctl status nginx para observar el estado del servidor, la primera vez que se instale el servidor estará en estado inactivo: 
 
+~~~
+systemctl status nginx 
+~~~
 
 **1.6**	Iniciar el servidor de nginx con el comando: 
 
