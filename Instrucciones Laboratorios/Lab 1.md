@@ -73,5 +73,53 @@ curl ifconfig.me
 
 **2.1** Probar los siguientes comandos:
 
+**Iniciar Nginx**
+~~~
+sudo systemctl start nginx
+~~~
+ **Detener Nginx**
+ ~~~
+ sudo systemctl stop nginx
+~~~
+**Recargar configuración sin interrupciones**
+~~~
+sudo systemctl reload nginx
+~~~
+**Reiniciar Nginx**
+~~~
+sudo systemctl restart nginx
+~~~
+**Verificar configuración de Nginx**
+~~~
+sudo nginx -t
+~~~
+**Mostrar versión de Nginx**
+~~~
+nginx -v
+~~~
+**Mostrar información de módulos cargados**
+~~~
+nginx -V
+~~~
+**Ver logs de acceso**
+~~~
+tail -f /var/log/nginx/access.log
+~~~
+**Ver logs de errores**
+~~~
+tail -f /var/log/nginx/error.log
+~~~
+**Abrir nginx.conf**
+~~~
+sudo nano /etc/nginx/nginx.conf
+~~~
+**Ver lista de módulos compilados**
+~~~
+nginx -V
+~~~
+**Detener Nginx**
+~~~
+sudo systemctl stop nginx
+~~~
 
  
