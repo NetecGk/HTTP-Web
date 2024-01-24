@@ -67,4 +67,11 @@ curl ifconfig.me
  ![7.png](../Imagenes/image015.png)
  ***Ten en encuenta que la dirección publica puede ser diferente en tu laboratorio***
 
- **1.9** 1.9	Abrir un explorador web y pegar la IP pública de tu servidor: 
+ **1.9** Abrir un explorador web y pegar la IP pública de tu servidor.
+
+ ### 2. Tarea Opcional
+
+**2.1** Probar los siguientes comandos:
+
+
+ 
