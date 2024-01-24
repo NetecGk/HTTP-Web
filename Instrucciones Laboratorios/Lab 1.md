@@ -1,6 +1,5 @@
 
 # Práctica 1 Instalación y configuración de nginx
-## Lab: Netec
   
 ### Scenario
   
@@ -8,15 +7,13 @@ Al final de la práctica se espera que el participante pueda observar en funcion
 
 Esta práctica está pensada para un sistema operativo CentOS / RedHat
 
-### Objectives
+### Objectivos:
   
 -Instalar nginx.
 
 -Familiarizarse con los principales comandos de nginx.
 
-### Lab Setup
-
-**1**. Instalación de nginx.
+###1. Instalación de nginx.
 
 **1.1** Abrir la terminal de nuestro servidor. 
 
