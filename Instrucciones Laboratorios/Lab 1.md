@@ -13,7 +13,7 @@ Esta práctica está pensada para un sistema operativo CentOS / RedHat
 
 -Familiarizarse con los principales comandos de nginx.
 
-###1. Instalación de nginx.
+### 1. Instalación de nginx.
 
 **1.1** Abrir la terminal de nuestro servidor. 
 
