@@ -5,8 +5,6 @@
   
 Al final de la práctica se espera que el participante pueda observar una página web con su información cómo la que aparece en la siguiente pantalla: . 
 
-![33.jpg]("C:\Users\EverardoJeronimo\Downloads\Lab_Guide_HTTP_Web_Server\33.jpg")
-
 ### Objectivos:
   
 - Adaptarse a los archivos de configuración principales de nginx.
@@ -21,28 +19,18 @@ Al final de la práctica se espera que el participante pueda observar una págin
 ~~~
 sudo su
 ~~~
-![0.jpg]("C:\Users\EverardoJeronimo\Downloads\Lab_Guide_HTTP_Web_Server\0.jpg")
-
 **1.2**	Usar el siguiente comando para validar el estado de nginx: 
 ~~~
 systemctl status nginx
 ~~~
-![2.png](../Imagenes/image003.png)
->**Netec@APItest:~$ sudo su**
->**root@APItest:/home/Netec#**
-
 **1.3**	En el dado caso que el servicio se encuentre en estado inactivo (como en la imagen anterior) activar el servicio usando el siguiente comando:
 ~~~
 systemctl start nginx
 ~~~ 
-![3.png](../Imagenes/image005.png)
-
 **1.4**	Volver a validar el estado de nginx usando el siguiente comando:
 ~~~
 systemctl status nginx
 ~~~
-![4.png](../Imagenes/image007.png) 
-
 **1.5**	Si el estado de nginx aparece como running entonces podemos pasar a la siguiente sección. 
 
 ### 2. Configuración de archivo html.
@@ -52,7 +40,6 @@ systemctl status nginx
 Usar el comando **pwd** para validar la ruta donde nos encontramos. 
 
 **2.2** Usar el comando **mkdir proyectosCurso** para crear la carpeta en **home** de nuestro usuario.
-
 ~~~
 mkdir proyectosCurso
 ~~~
