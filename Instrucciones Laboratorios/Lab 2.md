@@ -16,7 +16,7 @@ Al final de la práctica se espera que el participante pueda observar una págin
 ### 1.	Validar la instalación y servicio de nginx.
 
 **1.1** Activar el super usuario en Linux. 
-![8.png](../Imagenes/image017.png)
+![8.png](../Imagenes/image018.png)
 ~~~
 sudo su
 ~~~
